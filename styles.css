@@ -1,0 +1,25 @@
+
+.calculator{
+    width: 260px;
+    background-color:rgb(83, 192, 156);
+    border-radius: 6px;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    color: rgba(71, 34, 237, 0.855);
+}
+
+#display{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+.btn {
+    width: 45px;
+    height: 45px;
+    border-radius: 40%;
+    border: 0;
+    margin: 6.5px;
+}
